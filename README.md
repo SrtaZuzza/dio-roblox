@@ -9,7 +9,7 @@ Aqui ficarão reunidos materiais de estudo, anotações e a entrega de **5 proje
 - Publicar e documentar cada projeto com links, descrição e aprendizados
 
 ## Projetos (5)
-1. **tenacitteas-Place (entregue)**  
+1. **Crie uma experiência no Roblox (entregue)**  
    https://www.roblox.com/pt/games/105932047583306/tenacitteas-Place
 
 2. **Projeto 2 (em breve)**  

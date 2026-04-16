@@ -12,8 +12,8 @@ Aqui ficarão reunidos materiais de estudo, anotações e a entrega de **5 proje
 1. **Crie uma experiência no Roblox (entregue)**  
    https://www.roblox.com/pt/games/105932047583306/tenacitteas-Place
 
-2. **Projeto 2 (em breve)**  
-   _Descrição e link serão adicionados quando publicado._
+2. **Criando um Jogo de Obstáculos no Roblox (entregue)**  
+   https://www.roblox.com/pt/games/101242585593260/Generic-Obby
 
 3. **Projeto 3 (em breve)**  
    _Descrição e link serão adicionados quando publicado._
